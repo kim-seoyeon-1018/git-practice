@@ -1,0 +1,2 @@
+total 1.0K
+-rw-r--r-- 1 김서연 197121 25 Oct 18 00:11 file_list.txt
